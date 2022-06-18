@@ -1,0 +1,119 @@
+#image{
+    margin-left: 500px;
+    cursor: pointer;
+    height: 0px;
+    text-align: right;
+    color: chocolate;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+.button {
+    background-color: black;
+    border-radius: 10px;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .button1 {
+    background-color: rgb(32,34,36); 
+    color: white; 
+  }
+  
+  .button2 {
+    background-color: rgb(32,34,36); 
+    color: white; 
+  }
+  
+  .button3 {
+    background-color: rgb(32,34,36); 
+    color: white; 
+  }
+  
+  .button4 {
+    background-color: rgb(32,34,36); 
+    color: white;
+  }
+
+  .button8 {
+    background-color: rgb(32,34,36); 
+    color: white;
+  }
+
+  footer{
+    background-color: rgb(32,34,36);
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+  }
+
+  .social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    float: left;
+  }
+  .social li{
+    margin: 0px 10px;
+  }
+  .social a{
+    color: white;
+  }
+
+  .ctc{
+    float: right;
+  }
+  .button0{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .button9{
+    color: white; 
+    background: none;
+    border: 0ch;
+  }
+  .button10{ 
+    color: white; 
+    background: none;
+    border: 0ch;
+  }
+  .button11{
+    color: white; 
+    background: none;
+    border: 0ch;
+  }
+  
+  .bottom{
+    text-align: center;
+    background: none;
+    clear: both;
+  }
+
+  h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-style: oblique;
+    font-size: 90px;
+    padding: 10%;
+    
+  }
+
+  .soon{
+    background-image: url(https://live.staticflickr.com/65535/50813570567_f69b84c427_b.jpg);
+    background-size: cover;
+  }
+
